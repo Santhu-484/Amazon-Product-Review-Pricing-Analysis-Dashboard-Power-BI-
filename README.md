@@ -78,13 +78,6 @@ The primary objective of this project is to create an **interactive and insightf
 1. Download the `.pbix` file (if available)
 2. Open in Power BI Desktop
 3. Explore the dashboard by applying filters and interacting with visuals
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](./Screenshot%202025-05-19%20194105.png)
-
 ---
 
 ## 🚀 Future Enhancements
@@ -99,3 +92,5 @@ The primary objective of this project is to create an **interactive and insightf
 ## 🏷️ Tags
 
 `#PowerBI` `#AmazonDashboard` `#DataVisualization` `#ProductAnalytics` `#SanthoshVoorugonda` `#InteractiveDashboard` `#BusinessIntelligence`
+
+![Screenshot 2025-05-19 194105](https://github.com/user-attachments/assets/b2ae1f22-d351-4e94-a202-aa6f1bf64a36)
