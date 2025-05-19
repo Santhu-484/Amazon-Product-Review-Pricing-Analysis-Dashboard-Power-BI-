@@ -93,4 +93,5 @@ The primary objective of this project is to create an **interactive and insightf
 
 `#PowerBI` `#AmazonDashboard` `#DataVisualization` `#ProductAnalytics` `#SanthoshVoorugonda` `#InteractiveDashboard` `#BusinessIntelligence`
 
-![Screenshot 2025-05-19 194105](https://github.com/user-attachments/assets/b2ae1f22-d351-4e94-a202-aa6f1bf64a36)
+![Screenshot 2025-05-20 004008](https://github.com/user-attachments/assets/0e30c9d4-358a-468f-891c-329a86a91e2e)
+
